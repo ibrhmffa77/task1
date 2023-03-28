@@ -1,0 +1,42 @@
+.box1{
+    border: 1px solid red;
+    width: 700px;
+    height: 600px;
+    background-color:rgba(255, 153, 0, 0.774);
+    margin-left: 200px;
+    
+   
+}
+.box2{
+    border: 1px solid orange;
+    width: 600px;
+    height: 500px;
+    background-color: rgba(255, 217, 0, 0.473);
+    margin-left: 50px;
+   
+}
+.box3{
+    border: 1px solid salmon;
+    width: 500px;
+    height: 400px;
+    background-color: rgb(249, 255, 196);
+    margin-left: 50px;
+    
+}
+.box4{
+    border: 1px solid rgb(0, 81, 255);
+    width: 400px;
+    height: 300px;
+    background-color: rgb(226, 233, 211);
+    margin-left: 50px;
+    
+}
+
+
+.imgg{
+    border: 1px solid green;
+    width: 400px;
+    height: 200px;
+   
+   object-fit: cover;
+}
